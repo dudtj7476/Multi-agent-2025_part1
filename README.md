@@ -3,7 +3,7 @@ This work was supported by Institute of Information &amp; communications Technol
 
 # Korea Intelligent Automotive Parts Promotion Institute(KIAPI) Data
 ## <img src="https://github.com/Yunhyeongseok-kiapi/KIAPI_dataset/assets/85465084/9304bae8-7878-4b71-853f-08cff6392d4e" width="300" height ="200">
-## This work was supported by Institute of Information &amp; communications Technology Planning &amp; Evaluation (IITP) grant funded by the Korea government (MSIT) (No.2021-0- 01415, Development of multi-agent simulation &amp; test scenario generation SW for edge connected autonomous driving service verification.
+This work was supported by Institute of Information &amp; communications Technology Planning &amp; Evaluation (IITP) grant funded by the Korea government (MSIT) (No.2021-0- 01415, Development of multi-agent simulation &amp; test scenario generation SW for edge connected autonomous driving service verification.
 
 ## Autonomous Driving Data
 
