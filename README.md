@@ -4,9 +4,9 @@ This work was supported by Institute of Information &amp; communications Technol
 
 ## Autonomous Driving Data
 
-### Download Autonomous Driving(with V2X)        
+### Download Autonomous Driving
 
-#### Data #1   : [Download](http://192.168.11.47:5000/sharing/5TLQ29XYu)     
+#### Data : [Download](http://192.168.11.47:5000/sharing/5TLQ29XYu)     
           
 ※ **자율주행차량의 주행 데이터는 2023년 9월 19일에 실제 차량을 통해 계측한 데이터임**  
 ※ 차량에 장착된 센서 데이터와 실증도로 기반의 V2X 데이터를 포함하고 있음
