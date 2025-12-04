@@ -9,7 +9,7 @@ This work was supported by Institute of Information &amp; communications Technol
 #### Data : [Download](http://192.168.11.47:5000/sharing/5TLQ29XYu)     
           
 ※ **자율주행차량의 주행 데이터는 2025년 8월에 실제 차량을 통해 계측한 데이터임**  
-※ 차량에 장착된 센서 RAW 데이터 및 라이다 기반 객체 인지정보를 포함하고 있음
+※ 차량에 장착된 센서 RAW 데이터(카메라, 라이다) 및 라이다 기반 객체 인지정보를 포함하고 있음
 
 ### 1. 개요  
 ### Autonomous vehicle  
@@ -17,8 +17,8 @@ This work was supported by Institute of Information &amp; communications Technol
   * Radar, Lidar 2대, GPS, Camera, OBU 장치가 장착되어 있음
 <img src="https://github.com/Yunhyeongseok-kiapi/KIAPI_dataset/assets/85465084/98408c85-9d99-46f7-8550-357abb3a0c7e" width="650" height="350"> 
 
-#### 데이터 수집 리스트
-##### 1) Autonomous vehicle  
+### 데이터 수집 리스트
+#### 1) Autonomous vehicle  
   * 주행 데이터는 Ubuntu(Linux)의 ROS 환경 기반의 bag 포맷으로 계측을 진행하였음
   * 센서 데이터 및 차량에서 계측된 주행 데이터의 목록은 다음과 같음
   * 수집 데이터의 구조는 ROS에서 제공되는 구조와 자체 정의한 custom_msgs로 구성되어 있음
@@ -27,7 +27,7 @@ This work was supported by Institute of Information &amp; communications Technol
 
 ### 2. 데이터 환경  
 ##### 1) Autonomous vehicle  
-* 2023년 9월 19일에 실제 자율주행차량을 통해 계측한 데이터  
+* 2025년 8월에 실제 자율주행차량을 통해 계측한 데이터  
   * 약 140km 주행에 관한 데이터로 약 350GB
   * Linux(Ubuntu) ROS환경에서 제공되는 bag 포맷으로 저장
   * 대구 실증도로를 비롯한 주변 도로를 주행하면서 계측을 진행
@@ -37,6 +37,3 @@ This work was supported by Institute of Information &amp; communications Technol
 
 * <주행 거리>
 <img src="https://github.com/Yunhyeongseok-kiapi/KIAPI_dataset/assets/85465084/8bc505fc-fb99-4b23-adfa-cdc4a4549b16" width="800" height="300">
-
-* <운행 정보 예시>
-<img src="https://github.com/Yunhyeongseok-kiapi/KIAPI_dataset/assets/85465084/ed1465a1-063c-424c-93ba-598626b87935" width="800" height="500">  
