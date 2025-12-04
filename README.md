@@ -8,10 +8,8 @@ This work was supported by Institute of Information &amp; communications Technol
 
 #### Data : [Download](http://192.168.11.47:5000/sharing/5TLQ29XYu)     
           
-※ **자율주행차량의 주행 데이터는 2023년 9월 19일에 실제 차량을 통해 계측한 데이터임**  
-※ 차량에 장착된 센서 데이터와 실증도로 기반의 V2X 데이터를 포함하고 있음
-
-### Download Simulation Driving data
+※ **자율주행차량의 주행 데이터는 2025년 8월에 실제 차량을 통해 계측한 데이터임**  
+※ 차량에 장착된 센서 RAW 데이터 및 라이다 기반 객체 인지정보를 포함하고 있음
 
 ### 1. 개요  
 ### Autonomous vehicle  
