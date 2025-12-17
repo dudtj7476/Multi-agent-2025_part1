@@ -27,8 +27,7 @@ This work was supported by Institute of Information &amp; communications Technol
 
     <img width="612" height="682" alt="화면 캡처 2025-12-17 150617" src="https://github.com/user-attachments/assets/29e4ecd1-453d-486f-b8f0-9b55962caba5" />
 
-### 2. 데이터 환경  
-##### 1) Autonomous vehicle  
+### 2. 데이터 수집 환경   
 * 2025년 8월에 실제 자율주행차량을 통해 계측한 데이터  
   * 약 140km 주행에 관한 데이터로 약 2.2TB
   * Linux(Ubuntu) ROS환경에서 제공되는 bag 포맷으로 저장
