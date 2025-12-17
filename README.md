@@ -15,8 +15,8 @@ This work was supported by Institute of Information &amp; communications Technol
 ### Autonomous vehicle  
   * 차종(차명) : 승용(현대 IONIQ electric)  
   * Radar, Lidar 2대, GPS, Camera, OBU 장치가 장착되어 있음
-  *
-  * <img src="https://github.com/Yunhyeongseok-kiapi/KIAPI_dataset/assets/85465084/98408c85-9d99-46f7-8550-357abb3a0c7e" width="650" height="350"> 
+  
+    <img src="https://github.com/Yunhyeongseok-kiapi/KIAPI_dataset/assets/85465084/98408c85-9d99-46f7-8550-357abb3a0c7e" width="650" height="350"> 
 
 ### 데이터 수집 리스트
 #### 1) Autonomous vehicle  
@@ -35,4 +35,5 @@ This work was supported by Institute of Information &amp; communications Technol
   * 대구 실증도로를 비롯한 주변 도로를 주행하면서 계측을 진행
     
 * <주행 환경>
-* <img width="744" height="735" alt="화면 캡처 2025-12-17 152236" src="https://github.com/user-attachments/assets/0068230b-b482-48a7-86aa-ace60137463e" />
+
+  <img width="744" height="735" alt="화면 캡처 2025-12-17 152236" src="https://github.com/user-attachments/assets/0068230b-b482-48a7-86aa-ace60137463e" />
