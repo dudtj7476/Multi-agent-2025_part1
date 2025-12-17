@@ -36,4 +36,4 @@ This work was supported by Institute of Information &amp; communications Technol
     
 * <주행 환경>
 
-  <img width="744" height="735" alt="화면 캡처 2025-12-17 152236" src="https://github.com/user-attachments/assets/0068230b-b482-48a7-86aa-ace60137463e" />
+  <img width="612" height="682" alt="화면 캡처 2025-12-17 152236" src="https://github.com/user-attachments/assets/0068230b-b482-48a7-86aa-ace60137463e" />
